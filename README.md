@@ -1,4 +1,5 @@
-"# Task" 
 "# Gianluca-cashier" 
-"# Gianluca-cashier" 
-"# Gianluca-cashier" 
+
+Simple app for cashier orders.
+
+In progress.
